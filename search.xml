@@ -11,6 +11,16 @@
       </tags>
   </entry>
   <entry>
+    <title>终端走代理的方式</title>
+    <url>/archives/undefined.html</url>
+    <content><![CDATA[<h2 id="终端走代理的方式"><a href="#终端走代理的方式" class="headerlink" title="终端走代理的方式"></a>终端走代理的方式</h2><a id="more"></a>
+<h3 id="在终端中直接运行："><a href="#在终端中直接运行：" class="headerlink" title="在终端中直接运行："></a>在终端中直接运行：</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">export http_proxy&#x3D;http:&#x2F;&#x2F;proxyAddress:port</span><br><span class="line">export http_proxy&#x3D;http:&#x2F;&#x2F;127.0.0.1:12333</span><br><span class="line">export https_proxy&#x3D;http:&#x2F;&#x2F;127.0.0.1:12333</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>编程乱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/archives/undefined.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener external nofollow noreferrer">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener external nofollow noreferrer">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener external nofollow noreferrer">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener external nofollow noreferrer">GitHub</a>.</p>
@@ -28,15 +38,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener external nofollow noreferrer">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>终端走代理的方式</title>
-    <url>/archives/undefined.html</url>
-    <content><![CDATA[<h2 id="终端走代理的方式"><a href="#终端走代理的方式" class="headerlink" title="终端走代理的方式"></a>终端走代理的方式</h2><a id="more"></a>
-<h3 id="在终端中直接运行："><a href="#在终端中直接运行：" class="headerlink" title="在终端中直接运行："></a>在终端中直接运行：</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">export http_proxy&#x3D;http:&#x2F;&#x2F;proxyAddress:port</span><br><span class="line">export http_proxy&#x3D;http:&#x2F;&#x2F;127.0.0.1:12333</span><br><span class="line">export https_proxy&#x3D;http:&#x2F;&#x2F;127.0.0.1:12333</span><br></pre></td></tr></table></figure>
-]]></content>
-      <tags>
-        <tag>编程乱</tag>
-      </tags>
   </entry>
 </search>
