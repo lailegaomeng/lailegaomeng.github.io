@@ -45,7 +45,8 @@ a:hover {
   outline: 0;
 }
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 1px darkred;
+  
 }
 b,
 strong {
